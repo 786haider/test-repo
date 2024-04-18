@@ -1,2 +1,4 @@
+console.log("HELLO WORLD");
+
 let myName="HAIDER HUSSAIN";
-console.log("Hello,My name is",myName);
+console.log("My name is",myName);
